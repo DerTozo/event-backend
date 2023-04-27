@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6437d73a7b386fe2aa2b3edb"
+  },
+  "name": "Gelbe Tonne",
+  "processor": "Tomasz",
+  "color": "purple",
+  "creationDate": 14,
+  "startDate": "2023-04-13 12:19:38",
+  "eventId": 520024
+},{
+  "_id": {
+    "$oid": "6437d795de90bc6e00cd52e3"
+  },
+  "name": "Blaue Tonne",
+  "processor": "Finn",
+  "color": "blue",
+  "creationDate": 6,
+  "startDate": "2023-04-13 12:21:09",
+  "eventId": 492095
+},{
+  "_id": {
+    "$oid": "6437d84e5f2c78b9c8c68782"
+  },
+  "name": "Wohnzimmer",
+  "processor": "Finn",
+  "color": "orange",
+  "creationDate": 15,
+  "startDate": "2023-04-13 12:24:14",
+  "eventId": 1453731
+},{
+  "_id": {
+    "$oid": "6437d85ea71ed413101cce62"
+  },
+  "name": "Restmuell",
+  "processor": "Tomasz",
+  "color": "green",
+  "creationDate": 5,
+  "startDate": "2023-04-13 12:24:30",
+  "eventId": 214515
+},{
+  "_id": {
+    "$oid": "644a36a94d7cc1578ad27a17"
+  },
+  "name": "Flur Saugen",
+  "processor": "Tomasz",
+  "color": "purple",
+  "creationDate": 14,
+  "startDate": "2023-04-27 10:47:37",
+  "eventId": 1221867
+}]
